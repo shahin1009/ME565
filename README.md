@@ -6,6 +6,8 @@
 
 ##  :beginner: About
 Codes from <b>Steve Brunton</b>'s ME 565 course on YouTube: A python version</br>
+https://www.youtube.com/c/Eigensteve</br>
+http://faculty.washington.edu/sbrunton/me565/</br>
 
 ###  :file_folder: File Structure
 
