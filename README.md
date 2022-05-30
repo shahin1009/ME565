@@ -32,3 +32,5 @@ http://faculty.washington.edu/sbrunton/me565/</br>
 │   ├── Differentiation with fourier
 └── README.md
 ```
+
+![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/1d-heat-fft.png "1d-heat-fft")
