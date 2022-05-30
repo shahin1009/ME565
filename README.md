@@ -20,7 +20,7 @@ http://faculty.washington.edu/sbrunton/me565/</br>
 │   ├── heat transfer numerical solution
 │   ├── Analytic solution to the heat equation(without itteration)
 │   ├── solution for a nastier BC
-├── PDE.ipynb
+├── FourierTransform.ipynb
 │   ├── furier transform of step function
 │   ├── Discrete Fourier Transform
 │   ├── DFT vs FFT
