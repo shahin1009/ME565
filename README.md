@@ -32,5 +32,15 @@ http://faculty.washington.edu/sbrunton/me565/</br>
 │   ├── Differentiation with fourier
 └── README.md
 ```
+Complex visualization
+![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/output.png "Complex")
+![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/logz.png "logz")
 
+Image compression with DFT
+![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/summer.jpg "fft pic1")
+![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/pic-freq.png "fft pic2")
+![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/pic-compressed.png "fft pic3")
+
+PDE
 ![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/1d-heat-fft.png "1d-heat-fft")
+![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/heatpde.png "2d-heat-fft")
