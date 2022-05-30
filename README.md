@@ -9,7 +9,7 @@ Furier transform(DFT,FFT,Image compression)</br>
 # Introduction
 - ME565
 
-## :ledger: Index
+## Index
 
 - [About](#beginner-about)
 
