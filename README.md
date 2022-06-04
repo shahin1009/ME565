@@ -30,6 +30,10 @@ http://faculty.washington.edu/sbrunton/me565/</br>
 │   ├── 1D heat equation with numerical integral
 │   ├── 1D heat equation with fft
 │   ├── Differentiation with fourier
+├── Laplace.ipynb
+│   ├── System responses to impulse and step
+│   ├── Bode plot
+│   ├── Calculating system response by convolving with impulse
 └── README.md
 ```
 ## Complex visualization
@@ -44,3 +48,7 @@ http://faculty.washington.edu/sbrunton/me565/</br>
 ## PDE
 ![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/1d-heat-fft.png "1d-heat-fft")
 ![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/heatpde.png "2d-heat-fft")
+
+## Laplace
+![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/spring-mass.png "res")
+![Alt text](https://github.com/shahin1009/ME565/blob/master/pictures/conv.png "conv-res")
